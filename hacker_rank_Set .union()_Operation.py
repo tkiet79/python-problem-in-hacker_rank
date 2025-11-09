@@ -13,3 +13,4 @@ print(total)
 total_subscribers = student_number_1.union(student_number_2)
 
 print(len(total_subscribers))
+
